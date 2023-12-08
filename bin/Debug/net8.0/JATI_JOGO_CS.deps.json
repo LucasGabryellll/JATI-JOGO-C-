@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JATI_JOGO_CS/1.0.0": {
+        "runtime": {
+          "JATI_JOGO_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JATI_JOGO_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
